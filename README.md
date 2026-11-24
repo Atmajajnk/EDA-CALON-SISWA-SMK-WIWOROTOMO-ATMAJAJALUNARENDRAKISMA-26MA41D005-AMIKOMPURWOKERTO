@@ -1,0 +1,2 @@
+# EDA-CALON-SISWA-SMK-WIWOROTOMO-ATMAJAJALUNARENDRAKISMA-26MA41D005-AMIKOMPURWOKERTO
+Exploratory Data Analysis (EDA) terhadap data calon siswa SMK Wiworotomo Purwokerto tahun ajaran 2026/2027. Proyek ini bertujuan menganalisis pola pendaftaran, distribusi pemilihan jurusan, asal sekolah, karakteristik calon siswa, serta mengeksplorasi kualitas data menggunakan Python, Pandas, dan visualisasi data.
